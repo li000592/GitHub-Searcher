@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Github Searcher</string>
+    <string name="search_button_text">Search</string>
+    <string name="user_data_key">USER_DATA</string>
+    <string name="search_user_hint">Search</string>
+    <string name="user_score">Score: %1$s</string>
+    <string name="user_login">Login: %1$s</string>
+    <string name="user_id">ID: %1$s</string>
+    <string name="image_description">Avatar</string>
+    <string name="user_name">Name: %1$s</string>
+    <string name="user_location">Location: %1$s</string>
+    <string name="user_company">Company: %1$s</string>
+    <string name="user_followers">Followers: %1$s</string>
+    <string name="user_publicGist">Public Gist: %1$s</string>
+    <string name="user_publicRepos">Public repos : %1$s</string>
+    <string name="user_created">Created : %1$s</string>
+    <string name="user_updated">Updated: %1$s</string>
+    <string name="placeholder_url">url</string>
+    <string name="url_key">URL_KEY</string>
+    <string name="menu_about">About</string>
+    <string name="no_results">No results for %1$s </string>
+
+    <string name="about_app_name_withVersion">Github Searcher v1.0.0</string>
+    <string name="about_create_by">Create By Haorong Li</string>
+    <string name="about_company">Mobile Inc.</string>
+    <string name="about_email">haorong547@gmail.com</string>
+    <string name="about_url">https://github.com/li000592</string>
+</resources>
